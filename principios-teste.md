@@ -4,7 +4,7 @@ Os testes de software não servem apenas para encontrar bugs. Eles são uma form
 
 ---
 
-## 1. 🐛 Testes mostram a presença de defeitos
+## 1.  Testes mostram a presença de defeitos
 
 > **"Testar serve para encontrar falhas, não para provar que está tudo certo."**
 
@@ -15,7 +15,7 @@ Mesmo que os testes não encontrem bugs, isso **não garante que o sistema estej
 
 ---
 
-## 2. 🧮 Testes exaustivos são impossíveis
+## 2.  Testes exaustivos são impossíveis
 
 > **"Testar tudo em todas as combinações é inviável."**
 
@@ -27,7 +27,7 @@ Por isso usamos técnicas de priorização e design de casos de teste. O segredo
 
 ---
 
-## 3. 🕐 Testes antecipados economizam tempo e dinheiro
+## 3.  Testes antecipados economizam tempo e dinheiro
 
 > **"Quanto antes começarmos a testar, mais barato será corrigir."**
 
@@ -38,7 +38,7 @@ Um bug encontrado ainda na fase de requisitos custa **até 100x menos** do que u
 
 ---
 
-## 4. 🔁 Agrupamento de defeitos
+## 4.  Agrupamento de defeitos
 
 > **"Erros tendem a se concentrar em certas áreas do sistema."**
 
@@ -50,7 +50,7 @@ Funcionalidades mal projetadas ou apressadas **costumam acumular mais bugs**. Is
 
 ---
 
-## 5. 📉 O paradoxo do pesticida
+## 5.  O paradoxo do pesticida
 
 > **"Se você repetir os mesmos testes, eles deixarão de ser eficazes."**
 
@@ -62,7 +62,7 @@ Funcionalidades mal projetadas ou apressadas **costumam acumular mais bugs**. Is
 
 ---
 
-## 6. 🎯 Teste depende do contexto
+## 6.  Teste depende do contexto
 
 > **"Não existe uma abordagem universal de testes para todos os projetos."**
 
@@ -73,7 +73,7 @@ Testar um app bancário exige profundidade e rigor. Já um app de memes pode tol
 
 ---
 
-## 7. 🙅‍♂️ Ausência de erros ≠ Qualidade
+## 7.  Ausência de erros ≠ Qualidade
 
 > **"O sistema pode estar com mínimo de bugs, mas ainda assim não atender ao usuário."**
 
