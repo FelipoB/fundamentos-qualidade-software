@@ -1,4 +1,4 @@
-# Ciclo de Vida dos Testes de Software
+# Ciclo de Vida dos Testes de Software.
 
 ## Descrição
 
